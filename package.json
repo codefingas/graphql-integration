@@ -1,0 +1,16 @@
+{
+  "name": "graphql-apollo-integration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<udohezekiel34@yahoo.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon start index.js"
+  },
+  "dependencies": {
+    "apollo-datasource": "0.7.0",
+    "apollo-server": "2.12",
+    "lodash": "4.17",
+    "nodemon": "^2.0.6"
+  }
+}
